@@ -1,70 +1,144 @@
 # Teto-os
-Teto OS — XFCE-дистрибутив, созданный Эллиотом из mr. Robot, собакой-хакером и пингвином 320 кг с бомжаро
-Teto OS
+# 🟥 Teto OS
 
-«Собака взломала Зону 51. Остальное — история.»
+Teto OS is a Debian-based XFCE Linux distribution inspired by Kasane Teto aesthetic, chaotic Linux culture, and experimental “why not?” engineering.
 
-Что это
+> “Собака взломала Зону 51. Остальное — история.”
 
-Teto OS — Linux-дистрибутив, появившийся после того, как:
+---
 
-- Эллиот сидел в холодильнике с VPN из Антарктиды.
-- Шефос Пингвин 320 кг компилировал Monjaro 17 дней подряд.
-- Касане Тето выкрутила бас на 500%.
-- AUR стал разумным.
-- Кто-то сказал: «А давайте сделаем свой дистрибутив».
+## 🧠 Overview
 
-Возможности
+Teto OS is not just a Linux distribution.
 
-- XFCE
-- Красная тема
-- Linux
-- Иногда не ломается
-- Иногда даже загружается
-- Поддержка квантовых багов
-- Поддержка не квантовых багов
-- Поддержка багов, которые никто не понимает
+It is a *state of mind*, created after:
 
-Статус
+- Elliot got stuck in a refrigerator with an Antarctic VPN tunnel
+- A 320kg Penguin known as “Shefos” compiled Monjaro for 17 days without sleep
+- Kasane Teto accidentally boosted system audio to +500% bass
+- AUR achieved temporary consciousness
+- Someone said: “Let’s make our own OS.”
 
-Активная разработка.
+And they did.
 
-ISO отсутствует.
+---
 
-План присутствует.
+## ⚙️ Features
 
-Мотивация отсутствует.
+- 🖥 XFCE lightweight desktop environment
+- 🟥 Teto-inspired red UI theme
+- 🐧 Debian-based stability (mostly)
+- 🌐 NetworkManager preconfigured
+- 🔊 Audio stack (PipeWire ready)
+- 📦 User-friendly package set
+- 🧪 Experimental “chaos compatibility layer”
+- ⚡ Boots on most hardware (sometimes instantly, sometimes philosophically)
 
-Системные требования
+---
 
-Минимум:
+## 📦 Current Status
 
-- 1 компьютер
+| Component        | Status              |
+|------------------|---------------------|
+| ISO              | ❌ Not released yet |
+| Installer        | ⚠ In development    |
+| Stability        | 🟡 Unknown          |
+| Philosophy       | 🔴 Stable chaos     |
+| Motivation       | 🔁 Fluctuating      |
 
-Рекомендуется:
+---
 
-- 2 компьютера
+## 💻 System Requirements
 
-Для разработчиков:
+### Minimum:
+- 1 working computer
 
-- 17 компьютеров
-- 3 холодильника
-- VPN из Антарктиды
+### Recommended:
+- 2 computers
+- stable electricity
 
-Известные проблемы
+### For developers:
+- 17 computers
+- 3 refrigerators
+- VPN routed through Antarctica
+- emotional resilience
 
-- Да.
+---
 
-Благодарности
+## 🧩 Known Issues
 
-- Собаке за взлом Зоны 51
-- Эллиоту за холодильник
-- Касане Тето за бас
-- Шефос Пингвину 320 кг за страдания
-- AUR за психологические травмы
+- Yes
+- Some
+- Unknown ones are worse
 
-Лицензия
+---
+
+## 🚀 Installation (planned)
+
+Teto OS will provide:
+
+- Graphical installer (Calamares)
+- Live ISO environment
+- Optional “chaos mode installation”
+
+---
+
+## 🔧 Build Status
+
+ISO build system is currently:
+
+- being stabilized
+- escaping intermittently
+- occasionally producing real ISO files
+
+---
+
+## 🎨 Philosophy
+
+Teto OS follows three core principles:
+
+1. If it works, don’t touch it  
+2. If it doesn’t work, it’s a feature  
+3. If nobody understands it, it’s quantum-compatible  
+
+---
+
+## 🐧 Mascot Lore
+
+The 320kg Penguin “Shefos” is responsible for:
+
+- kernel endurance testing
+- compilation rituals
+- emotional support of the system
+
+---
+
+## 🎤 Credits
+
+- 🐧 Shefos Penguin — system endurance engineer  
+- 🧠 Elliot — fridge-based DevOps operations  
+- 🐶 Dog — unauthorized penetration testing of Area 51  
+- 🎵 Kasane Teto — audio subsystem enhancement  
+- 🌐 AUR — temporary sentient package manager incident  
+- 🐧 Linux community — foundation of everything  
+
+---
+
+## 📜 License
 
 GPLv3
 
-Собака согласилась.
+> Dog approved. Penguin supervised. Teto endorsed.
+
+---
+
+## ⚠️ Disclaimer
+
+Teto OS is a meme-driven experimental distribution.
+
+It may:
+- work perfectly
+- fail gracefully
+- or behave like a philosophical concept
+
+Use accordingly.
