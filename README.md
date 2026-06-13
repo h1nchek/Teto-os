@@ -73,6 +73,12 @@ And they did.
 
 ---
 
+## Teto os ≠ tetOS
+
+Teto OS is not related to TetOS, tetos, or any other project with a similar name. It is a separate community-driven project with its own goals, development process, and identity.
+
+---
+
 ## 🚀 Installation (planned)
 
 Teto OS will provide:
