@@ -1,17 +1,18 @@
-# Teto-os
-# 🟥 Teto OS
+Teto-os
 
-Teto OS is a Debian-based XFCE Linux distribution inspired by Kasane Teto aesthetic, chaotic Linux culture, and experimental “why not?” engineering.
+🟥 Teto OS
 
-> “Собака взломала Зону 51. Остальное — история.”
+Teto OS is an Artix-based XFCE Linux distribution inspired by Kasane Teto aesthetic, chaotic Linux culture, and experimental “why not?” engineering.
+
+«“Собака взломала Зону 51. Остальное — история.”»
 
 ---
 
-## 🧠 Overview
+🧠 Overview
 
 Teto OS is not just a Linux distribution.
 
-It is a *state of mind*, created after:
+It is a state of mind, created after:
 
 - Elliot got stuck in a refrigerator with an Antarctic VPN tunnel
 - A 320kg Penguin known as “Shefos” compiled Monjaro for 17 days without sleep
@@ -23,41 +24,44 @@ And they did.
 
 ---
 
-## ⚙️ Features
+⚙️ Features
 
 - 🖥 XFCE lightweight desktop environment
 - 🟥 Teto-inspired red UI theme
-- 🐧 Debian-based stability (mostly)
+- 🐧 Artix-based system (systemd-free by design)
+- ⚙️ OpenRC / runit / dinit compatible (depending on build)
 - 🌐 NetworkManager preconfigured
-- 🔊 Audio stack (PipeWire ready)
-- 📦 User-friendly package set
-- 🧪 Experimental “chaos compatibility layer”
+- 🔊 PipeWire audio stack
+- 📦 Minimal, fast, chaos-oriented package set
+- 🧪 Experimental “init freedom compatibility layer”
 - ⚡ Boots on most hardware (sometimes instantly, sometimes philosophically)
 
 ---
 
-## 📦 Current Status
+📦 Current Status
 
-| Component        | Status              |
-|------------------|---------------------|
-| ISO              | ❌ Not released yet |
-| Installer        | ⚠ In development    |
-| Stability        | 🟡 Unknown          |
-| Philosophy       | 🔴 Stable chaos     |
-| Motivation       | 🔁 Fluctuating      |
+Component| Status
+ISO| ❌ Not released yet
+Installer| ⚠ In development
+Stability| 🟡 Unknown
+Philosophy| 🔴 Stable chaos
+Motivation| 🔁 Fluctuating
 
 ---
 
-## 💻 System Requirements
+💻 System Requirements
 
-### Minimum:
+Minimum:
+
 - 1 working computer
 
-### Recommended:
+Recommended:
+
 - 2 computers
 - stable electricity
 
-### For developers:
+For developers:
+
 - 17 computers
 - 3 refrigerators
 - VPN routed through Antarctica
@@ -65,84 +69,89 @@ And they did.
 
 ---
 
-## 🧩 Known Issues
+🧩 Known Issues
 
 - Yes
 - Some
+- Artix-specific ones included
 - Unknown ones are worse
 
 ---
 
-## Teto os ≠ tetOS
+Teto OS ≠ tetOS
 
 Teto OS is not related to TetOS, tetos, or any other project with a similar name. It is a separate community-driven project with its own goals, development process, and identity.
 
 ---
 
-## 🚀 Installation (planned)
+🚀 Installation (planned)
 
 Teto OS will provide:
 
-- Graphical installer (Calamares)
+- Graphical installer (Calamares or alternative lightweight fork)
 - Live ISO environment
 - Optional “chaos mode installation”
+- Init system choice (OpenRC / runit / dinit depending on edition)
 
 ---
 
-## 🔧 Build Status
+🔧 Build Status
 
 ISO build system is currently:
 
 - being stabilized
 - escaping intermittently
 - occasionally producing real ISO files
+- refusing systemd on principle
 
 ---
 
-## 🎨 Philosophy
+🎨 Philosophy
 
 Teto OS follows three core principles:
 
-1. If it works, don’t touch it  
-2. If it doesn’t work, it’s a feature  
-3. If nobody understands it, it’s quantum-compatible  
+1. If it works, don’t touch it
+2. If it doesn’t work, it’s a feature
+3. If nobody understands it, it’s quantum-compatible
 
 ---
 
-## 🐧 Mascot Lore
+🐧 Mascot Lore
 
 The 320kg Penguin “Shefos” is responsible for:
 
 - kernel endurance testing
 - compilation rituals
+- init system arbitration
 - emotional support of the system
 
 ---
 
-## 🎤 Credits
+🎤 Credits
 
-- 🐧 Shefos Penguin — system endurance engineer  
-- 🧠 Elliot — fridge-based DevOps operations  
-- 🐶 Dog — unauthorized penetration testing of Area 51  
-- 🎵 Kasane Teto — audio subsystem enhancement  
-- 🌐 AUR — temporary sentient package manager incident  
-- 🐧 Linux community — foundation of everything  
+- 🐧 Shefos Penguin — system endurance engineer
+- 🧠 Elliot — fridge-based DevOps operations
+- 🐶 Dog — unauthorized penetration testing of Area 51
+- 🎵 Kasane Teto — audio subsystem enhancement
+- 🌐 AUR — temporary sentient package manager incident
+- 🐧 Linux community — foundation of everything
 
 ---
 
-## 📜 License
+📜 License
 
 GPLv3
 
-> Dog approved. Penguin supervised. Teto endorsed.
+«Dog approved. Penguin supervised. Teto endorsed.»
 
 ---
 
-## ⚠️ Disclaimer
+⚠️ Disclaimer
 
 Teto OS is a meme-driven experimental distribution.
 
 It may:
+
 - work perfectly
 - fail gracefully
 - or behave like a philosophical concept
