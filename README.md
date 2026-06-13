@@ -40,12 +40,12 @@ And they did.
 
 ## 📦 Current Status
 
-Component| Status
-ISO| ❌ Not released yet
-Installer| ⚠ In development
-Stability| 🟡 Unknown
-Philosophy| 🔴 Stable chaos
-Motivation| 🔁 Fluctuating
+Component Status
+ISO - ❌ Not released yet
+Installer - ⚠ In development
+Stability -🟡 Unknown
+Philosophy - 🔴 Stable chaos
+Motivation - 🔁 Fluctuating
 
 ---
 
