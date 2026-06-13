@@ -1,4 +1,4 @@
-Teto-os
+## Teto-os
 
 🟥 Teto OS
 
@@ -8,7 +8,7 @@ Teto OS is an Artix-based XFCE Linux distribution inspired by Kasane Teto aesthe
 
 ---
 
-🧠 Overview
+## 🧠 Overview
 
 Teto OS is not just a Linux distribution.
 
@@ -24,7 +24,7 @@ And they did.
 
 ---
 
-⚙️ Features
+## ⚙️ Features
 
 - 🖥 XFCE lightweight desktop environment
 - 🟥 Teto-inspired red UI theme
@@ -38,7 +38,7 @@ And they did.
 
 ---
 
-📦 Current Status
+## 📦 Current Status
 
 Component| Status
 ISO| ❌ Not released yet
@@ -49,7 +49,7 @@ Motivation| 🔁 Fluctuating
 
 ---
 
-💻 System Requirements
+## 💻 System Requirements
 
 Minimum:
 
@@ -69,7 +69,7 @@ For developers:
 
 ---
 
-🧩 Known Issues
+## 🧩 Known Issues
 
 - Yes
 - Some
@@ -78,13 +78,13 @@ For developers:
 
 ---
 
-Teto OS ≠ tetOS
+## Teto OS ≠ tetOS
 
 Teto OS is not related to TetOS, tetos, or any other project with a similar name. It is a separate community-driven project with its own goals, development process, and identity.
 
 ---
 
-🚀 Installation (planned)
+## 🚀 Installation (planned)
 
 Teto OS will provide:
 
@@ -95,7 +95,7 @@ Teto OS will provide:
 
 ---
 
-🔧 Build Status
+## 🔧 Build Status
 
 ISO build system is currently:
 
@@ -106,7 +106,7 @@ ISO build system is currently:
 
 ---
 
-🎨 Philosophy
+## 🎨 Philosophy
 
 Teto OS follows three core principles:
 
@@ -116,7 +116,7 @@ Teto OS follows three core principles:
 
 ---
 
-🐧 Mascot Lore
+## 🐧 Mascot Lore
 
 The 320kg Penguin “Shefos” is responsible for:
 
@@ -127,7 +127,7 @@ The 320kg Penguin “Shefos” is responsible for:
 
 ---
 
-🎤 Credits
+## 🎤 Credits
 
 - 🐧 Shefos Penguin — system endurance engineer
 - 🧠 Elliot — fridge-based DevOps operations
@@ -138,7 +138,7 @@ The 320kg Penguin “Shefos” is responsible for:
 
 ---
 
-📜 License
+## 📜 License
 
 GPLv3
 
@@ -146,7 +146,7 @@ GPLv3
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 Teto OS is a meme-driven experimental distribution.
 
