@@ -2,9 +2,7 @@
 
 🟥 Teto OS
 
-Teto OS is an Artix-based XFCE Linux distribution inspired by Kasane Teto aesthetic, chaotic Linux culture, and experimental “why not?” engineering.
-
-«“Собака взломала Зону 51. Остальное — история.”»
+Teto OS is an experimental Artix-based XFCE + OpenRC Linux distribution inspired by Kasane Teto aesthetic, chaotic Linux culture, and experimental “why not?” engineering.
 
 ---
 
@@ -40,12 +38,18 @@ And they did.
 
 ## 📦 Current Status
 
-Component Status
-ISO - ❌ Not released yet
-Installer - ⚠ In development
-Stability -🟡 Unknown
-Philosophy - 🔴 Stable chaos
-Motivation - 🔁 Fluctuating
+Project status: frozen
+
+teto os was an experimental distribution project.
+Development has been paused indefinitely.
+
+This repo contains the latest available backup of the project,
+including configuration files, branding assets, build scripts, and notes.
+
+The project is not currently maintained and may contain unfinished features,
+bugs, or incomplete documentation.
+
+Anyone is free to fork this project and continue development.
 
 ---
 
